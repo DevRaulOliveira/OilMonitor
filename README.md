@@ -1,4 +1,4 @@
-# Monitor de óleo
+#  Monitor de pressão de óleo para determinar a vida util do filtro de óleo veícular.
 ![OilMonitor](https://api-reader.tinkercad.com/api/images/ez3vH38YpB1/t725.jpg)
 <br> Meu primeiro projeto envolvendo programação, realizado como trabalho de conclusão de curso na FATEC Santo André no Curso de Mecânica Automobilistica  durante o periodo de lockdown. <br>
 
