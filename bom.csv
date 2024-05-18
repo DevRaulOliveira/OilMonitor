@@ -1,0 +1,11 @@
+﻿Nome,Quantidade,Componente
+"U3",1," Arduino Uno R3"
+"U2",1," Sensor de temperatura [TMP36]"
+"D2",1,"Verde LED"
+"R2, R4, R7",3,"220 Ω Resistor"
+"D4",1,"Vermelho LED"
+"U5",1," LCD 16 x 2"
+"Rpot5, RpotSimulador Corpo Borboleta",2,"250 kΩ Potenciômetro"
+"SLiga Ignição, SLiga Motor",2," Interruptor deslizante"
+"RpotSimulador de pressão",1,"250 Ω Potenciômetro"
+"M1",1," Motor CC"
